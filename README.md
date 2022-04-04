@@ -1,5 +1,5 @@
 # Alissa-Joe-Notebook-Project
-We will be discussing the research on our notebook 
+We will be discussing the research on our alternative notebook of choice Polynote! 
 # AlternateNotebooks
 research into things other than Jupyter Notebook
 
